@@ -3,11 +3,11 @@ name: Build documentation
 on:
   push:
     branches: ["main"]
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 env:
   INSTANCE: 'ConfigLang/c'
-  ARTIFACT: 'webConfigLangC2-all.zip'
+  ARTIFACT: 'webConfiglangC2-all.zip'
   DOCKER_VERSION: '241.16003'
 
 jobs:
