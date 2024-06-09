@@ -1,2 +1,2 @@
 # configlang-docs
-ConfigLang Docs built with JetBrains Writerside.
+ConfigLang Docs built with [DocuWriter](https://github.com/zanderlewis/docuwriter)
